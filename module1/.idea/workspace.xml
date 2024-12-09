@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson 7/exercise2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/HCM/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/HCM/hcn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 7/exercise2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/exercise2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/exercise1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/thuchanh/exercise1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/exercise1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/thuchanh/exercise1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/exercise2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/thuchanh/exercise2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/exercise2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/thuchanh/exercise2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/exercise3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/thuchanh/exercise3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/exercise3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/thuchanh/exercise3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +48,9 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2py5ZQSlhrU5tZpi5waeP2jC9Dl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,6 +69,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codegym\module1\Lesson 7\thuchanh" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733725533990</updated>
-      <workItem from="1733725536366" duration="6224000" />
+      <workItem from="1733725536366" duration="7799000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
