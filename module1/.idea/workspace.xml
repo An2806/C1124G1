@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson 7/BT/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 7/BT/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/Baitap/baitap2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/Baitap/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/Baitap/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7/Baitap/ex4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/ex1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/BT/baitap2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/Baitap/ex3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/BT/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/Baitap/ex1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/BT/ex1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/BT/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/Baitap/ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/HCM/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/Baitap/ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 7/HCM/hcn.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,22 +35,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "An2806"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;An2806&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/An2806/c1124G1.git",
-    "accountId": "97c1e3cb-e844-4fd1-8da1-a874e31f16c6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/An2806/c1124G1.git&quot;,
+    &quot;accountId&quot;: &quot;97c1e3cb-e844-4fd1-8da1-a874e31f16c6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2py5ZQSlhrU5tZpi5waeP2jC9Dl" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,22 +59,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codegym\module1\Lesson 7\BT" />
       <recent name="D:\codegym\module1\Lesson 7\thuchanh" />
     </key>
   </component>
@@ -83,7 +94,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733725533990</updated>
-      <workItem from="1733725536366" duration="9830000" />
+      <workItem from="1733725536366" duration="16724000" />
+      <workItem from="1733802450916" duration="11868000" />
+      <workItem from="1733928163637" duration="1619000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
