@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson 8/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 8/ex4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/ex5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;An2806&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/An2806/c1124G1.git&quot;,
@@ -73,6 +70,9 @@
     <configuration name="ex2.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="ex2.js" working-dir="$PROJECT_DIR$/Lesson 8">
       <method v="2" />
     </configuration>
+    <configuration name="ex5.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="ex5.js" working-dir="$PROJECT_DIR$/Lesson 8">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -95,7 +95,7 @@
       <workItem from="1734014567782" duration="2077000" />
       <workItem from="1734051879631" duration="2970000" />
       <workItem from="1734061549021" duration="1188000" />
-      <workItem from="1734070994485" duration="3176000" />
+      <workItem from="1734070994485" duration="4460000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
