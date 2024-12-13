@@ -4,14 +4,14 @@ if (year % 4 === 0) {
         if (year % 400 === 0) {
             alert(year + " is a leap year");
         } else {
-            alert(year + " is NOT a lep year");
+            alert(year + " is NOT a leap year");
         }
     } else {
         alert(year + " is a leap year");
     }
 } else {
     alert (year + " is NOT a leap year");
-}https://github.com/An2806/C1124G1
+}
 
 
 

@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson 8/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 8/ex5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/quizizz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/sign.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -95,7 +96,7 @@
       <workItem from="1734014567782" duration="2077000" />
       <workItem from="1734051879631" duration="2970000" />
       <workItem from="1734061549021" duration="1188000" />
-      <workItem from="1734070994485" duration="4460000" />
+      <workItem from="1734070994485" duration="9128000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
