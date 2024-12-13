@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson 8/ex1.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/ex1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 8/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 8/ex1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,7 +89,9 @@
       <updated>1733725533990</updated>
       <workItem from="1733725536366" duration="16724000" />
       <workItem from="1733802450916" duration="11868000" />
-      <workItem from="1733928163637" duration="2844000" />
+      <workItem from="1733928163637" duration="3302000" />
+      <workItem from="1734014567782" duration="2077000" />
+      <workItem from="1734051879631" duration="2970000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
