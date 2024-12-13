@@ -11,7 +11,7 @@ if (year % 4 === 0) {
     }
 } else {
     alert (year + " is NOT a leap year");
-}
+}https://github.com/An2806/C1124G1
 
 
 
