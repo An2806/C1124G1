@@ -1,7 +1,7 @@
 let year = +prompt("Enter a year");
-if (year % 4 == 0) {
-    if (year % 100 == 0) {
-        if (year % 400 == 0) {
+if (year % 4 === 0) {
+    if (year % 100 === 0) {
+        if (year % 400 === 0) {
             alert(year + " is a leap year");
         } else {
             alert(year + " is NOT a lep year");
@@ -12,5 +12,15 @@ if (year % 4 == 0) {
 } else {
     alert (year + " is NOT a leap year");
 }
+
+
+
+
+
+
+
+
+
+
 
 
