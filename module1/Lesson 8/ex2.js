@@ -1,6 +1,7 @@
-let value = prompt('What is the "official" name of Javacript?','');
-if (value === 'ECMScript') {
+let value = prompt('What is the "official" name of JavaScript?','');
+console.log(value.toUpperCase());
+if (value.toLowerCase() === 'ecmascript') {
     alert('Right!');
 } else {
-    alert("Din't know?ECMAScript!");
+    alert("Didn't know? ECMAScript!");
 }
