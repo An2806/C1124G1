@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson 10/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/ex1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 8/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 8/ex2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 8/ex3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 8/ex3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 8/quizizz.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/ex1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/ex4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/ex5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 10/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/ex1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/ex1.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,28 +57,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.ex2.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\codegym\module1\Lesson 7\BT" />
       <recent name="D:\codegym\module1\Lesson 7\thuchanh" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.ex2.js">
-    <configuration name="ex2.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="ex2.js" working-dir="$PROJECT_DIR$/Lesson 8">
+  <component name="RunManager" selected="Node.js.ex1.js">
+    <configuration name="ex1.js" type="NodeJSConfigurationType" path-to-js-file="ex2.js" working-dir="$PROJECT_DIR$/Lesson 8">
       <method v="2" />
     </configuration>
     <configuration name="ex5.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="ex5.js" working-dir="$PROJECT_DIR$/Lesson 8">
@@ -103,7 +109,8 @@
       <workItem from="1734061549021" duration="1188000" />
       <workItem from="1734070994485" duration="14310000" />
       <workItem from="1734315337350" duration="14000" />
-      <workItem from="1734318921015" duration="2050000" />
+      <workItem from="1734318921015" duration="9674000" />
+      <workItem from="1734354790858" duration="1879000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
