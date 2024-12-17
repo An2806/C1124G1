@@ -6,16 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/ex5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 10/TH/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 10/TH/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/TH/ex1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex1.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +72,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codegym\module1\Lesson9\TH" />
       <recent name="D:\codegym\module1\Lesson 10\TH" />
       <recent name="D:\codegym\module1\Lesson 10\BT" />
       <recent name="D:\codegym\module1\Lesson 7\BT" />
@@ -118,7 +113,7 @@
       <workItem from="1734318921015" duration="9674000" />
       <workItem from="1734354790858" duration="6784000" />
       <workItem from="1734398417211" duration="1686000" />
-      <workItem from="1734402202210" duration="3512000" />
+      <workItem from="1734402202210" duration="5826000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
