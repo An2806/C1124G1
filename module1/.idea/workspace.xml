@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/Lesson 10/TH/dowhilesample.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/dowhilesample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/TH/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10/TH/ex5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 8/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 8/sign.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 8/sign.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,20 +72,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codegym\module1\Lesson9\Baitap" />
       <recent name="D:\codegym\module1\Lesson9\TH" />
       <recent name="D:\codegym\module1\Lesson 10\TH" />
       <recent name="D:\codegym\module1\Lesson 10\BT" />
       <recent name="D:\codegym\module1\Lesson 7\BT" />
-      <recent name="D:\codegym\module1\Lesson 7\thuchanh" />
     </key>
-  </component>
-  <component name="RunManager" selected="Node.js.ex2.js">
-    <configuration name="ex2.js" type="NodeJSConfigurationType" editBeforeRun="true" singleton="false" path-to-js-file="ex2.js" working-dir="$PROJECT_DIR$/Lesson 8">
-      <method v="2" />
-    </configuration>
-    <configuration name="ex5.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="ex5.js" working-dir="$PROJECT_DIR$/Lesson 8">
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -109,7 +105,8 @@
       <workItem from="1734318921015" duration="9674000" />
       <workItem from="1734354790858" duration="6784000" />
       <workItem from="1734398417211" duration="1686000" />
-      <workItem from="1734402202210" duration="8453000" />
+      <workItem from="1734402202210" duration="8838000" />
+      <workItem from="1734416688178" duration="3528000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -145,7 +142,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Lesson 8/sign.js</url>
-          <line>21</line>
+          <line>19</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
