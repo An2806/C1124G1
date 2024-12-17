@@ -1,5 +1,6 @@
-let value;
-switch (value) {
+let checkMouth;
+Let t;
+switch (t) {
     case 1:
     case 3:
     case 5:
