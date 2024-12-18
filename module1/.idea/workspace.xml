@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson14/ex3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson14/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson14/ex2.html" afterDir="false" />
-    </list>
+    <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +106,7 @@
       <workItem from="1734497824586" duration="183000" />
       <workItem from="1734498118651" duration="4193000" />
       <workItem from="1734513366249" duration="742000" />
-      <workItem from="1734528137981" duration="3120000" />
+      <workItem from="1734528137981" duration="3649000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
