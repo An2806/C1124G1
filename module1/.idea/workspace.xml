@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson11/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson11/ex2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson14/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson14/ex1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson14/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9/Luyentap/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson9/Luyentap/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson14/ex3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/TH/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 10/TH/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson14/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson14/ex2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +108,9 @@
       <workItem from="1734495508169" duration="6000" />
       <workItem from="1734495542945" duration="506000" />
       <workItem from="1734497824586" duration="183000" />
-      <workItem from="1734498118651" duration="2701000" />
+      <workItem from="1734498118651" duration="4193000" />
+      <workItem from="1734513366249" duration="742000" />
+      <workItem from="1734528137981" duration="3120000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
