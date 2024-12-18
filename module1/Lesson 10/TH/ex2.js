@@ -1,8 +1,6 @@
-let num=+prompt("Enter a number:");
+let num = +prompt("Enter a number:");
 let total = 0;
-let i = 1;
-for (; i <= num; i+=1) {
-    total = total + i;
-    alert(total);
+for (let i = 1; i <= num; i += 1) {
+    total += i;
 }
-
+alert(total);

@@ -1,6 +1,6 @@
-function check_month() {
+function checkMonth() {
     let t = parseInt(document.getElementById("month").value);
-       switch (t) {
+    switch (t) {
         case 1:
         case 3:
         case 5:
@@ -21,6 +21,5 @@ function check_month() {
             break;
         default:
             alert(`Ko có tháng ${t} hợp lệ`);
-            break;
     }
 }

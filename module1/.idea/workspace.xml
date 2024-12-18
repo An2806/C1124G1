@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson 10/TH/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 10/TH/ex5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 8/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson11/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson11/ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson14/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson14/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/Luyentap/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9/Luyentap/ex1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 8/sign.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 8/sign.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 10/TH/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 10/TH/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 10/TH/ex2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson9/Baitap/ex3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson9/Baitap/ex3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,7 +117,11 @@
       <workItem from="1734354790858" duration="6784000" />
       <workItem from="1734398417211" duration="1686000" />
       <workItem from="1734402202210" duration="8838000" />
-      <workItem from="1734416688178" duration="3528000" />
+      <workItem from="1734416688178" duration="11206000" />
+      <workItem from="1734495508169" duration="6000" />
+      <workItem from="1734495542945" duration="506000" />
+      <workItem from="1734497824586" duration="183000" />
+      <workItem from="1734498118651" duration="2701000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -123,8 +138,38 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="8c9deb78-17e9-46d3-ba8d-e46d8a2605f4" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="8c9deb78-17e9-46d3-ba8d-e46d8a2605f4">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/codegym/module1/Lesson9/Baitap" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
