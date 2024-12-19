@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test" />
+    <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/BT/chuyen_doi_feet_va_meters.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/BT/chuyen_doi_feet_va_meters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/LT2/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/LT2/bai1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +114,7 @@
       <workItem from="1734571477502" duration="369000" />
       <workItem from="1734574401621" duration="17497000" />
       <workItem from="1734596919056" duration="5218000" />
-      <workItem from="1734618010009" duration="3567000" />
+      <workItem from="1734618010009" duration="6433000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />

@@ -6,8 +6,17 @@
 </head>
 <body>
 <script>
-    function squareNumber() {
-        return 
+    function squareNumber(num) {
+        return num ** 2;
+    }
+    let enternumber= +prompt("Enter a number:");
+    let number= parsetloat(enternumber);
+
+    if(!isNaN(number)){
+        let answer = squareNumber(number);
+        alert(`Binh phuong của ${enternumber} là ${number}`);
+    } else {
+        alert(`Vui lòng nhập 1 số hợp lệ`);
     }
 </script>
 </body>
