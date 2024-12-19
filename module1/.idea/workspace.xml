@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson15/BT/Prime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/LT1/bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/LT1/bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/LT1/bai5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/LT2/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/LT2/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/LT2/cau1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson15/LT2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson15/BT/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/BT/ex1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson15/LT/bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/LT1/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson15/LT/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/LT1/bai2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson15/LT/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/LT1/bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/BT/Prime.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/BT/prime_check.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/BT/ex1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/BT/ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/BT/chuyen_doi_feet_va_meters.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +115,7 @@
       <workItem from="1734571477502" duration="369000" />
       <workItem from="1734574401621" duration="17497000" />
       <workItem from="1734596919056" duration="5218000" />
-      <workItem from="1734618010009" duration="1889000" />
+      <workItem from="1734618010009" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
