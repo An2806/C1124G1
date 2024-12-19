@@ -6,32 +6,20 @@
 </head>
 <body>
 <script>
-    let number = +prompt("Enter a integer");
-    isPrime(number);
+  let number = +prompt("Nhập một số nguyên:");
+  isPrime(number);
 
-    function isPrime(number) {
-        let count = 0;
-        let isPrime = false;
+  function isPrime(number){
+    let count = 0;
+    let isPrime = false;
+    for (let i = 1; i <= number; i++){
+      if (number == 0){
+        alert(`${number} is prime`);
+        isPrime = true;
 
-        if (number === 0) {
-            alert(`${number} is prime.`);
-        } else {
-            for (let i = 1; i <= number; i++) {
-                if (number % i === 0) {
-                    count += 1;
-                }
-            }
-            if (count === 2) {
-                isPrime = true;
-            }
-            if (isPrime) {
-                alert(`${number} is prime.`);
-            } else {
-                alert(`${number} is not prime.`);
-            }
-        }
+      }
     }
-
+  }
 </script>
 </body>
 </html>
