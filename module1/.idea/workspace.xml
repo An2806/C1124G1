@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa60d37-ef50-483a-8b7a-33c42c13149b" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lesson15/LT2/bai5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson14/ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson14/ex3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/LT2/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/LT2/bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/LT2/bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/LT2/bai5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson15/LT2/bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/LT2/bai6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,24 +53,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.ex2.html.executor": "Debug",
-    "JavaScript Debug.ex3.html.executor": "Debug",
-    "Node.js.ex1.js.executor": "Run",
-    "Node.js.ex2.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.ex2.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.ex3.html.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.ex1.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.ex2.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\codegym\module1\.idea" />
@@ -118,7 +121,8 @@
       <workItem from="1734664550152" duration="13930000" />
       <workItem from="1734684616636" duration="377000" />
       <workItem from="1734709238284" duration="7526000" />
-      <workItem from="1734752094860" duration="7873000" />
+      <workItem from="1734752094860" duration="8539000" />
+      <workItem from="1734780247313" duration="1004000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
